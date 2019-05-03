@@ -1,3 +1,4 @@
 # PyTorch Scholarship Challenge by Udacity
 
-Origin https://github.com/udacity/deep-learning-v2-pytorch
+Go to Course https://classroom.udacity.com/nanodegrees/nd188/  
+Course content https://github.com/udacity/deep-learning-v2-pytorch  
