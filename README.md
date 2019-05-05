@@ -11,7 +11,7 @@ Course content https://github.com/udacity/deep-learning-v2-pytorch
 (The key is not using any data augumentation for this task.)
 
 
-### Course Outline
+## Course Outline
 In this course, you'll learn the basics of deep neural networks and how to build various models using PyTorch. You'll get hands-on experience building state-of-the-art deep learning models.
 
 ### 1. Introduction to Neural Networks
@@ -37,6 +37,7 @@ In this course, you'll learn the basics of deep neural networks and how to build
 ### 9. Final Challenge Project
 * Build an image classifier from scratch that will identify different species of flowers
 
+## Course Videos
 
 1.1. Introduction  
 https://youtu.be/tn-CrUTkCUc  
