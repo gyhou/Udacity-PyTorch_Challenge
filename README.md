@@ -4,7 +4,7 @@ Go to Course https://classroom.udacity.com/nanodegrees/nd188/
 Course content https://github.com/udacity/deep-learning-v2-pytorch  
 
 Duration: 2018-11-09 ~ 2019-01-09  
-Approximate time to complete: 10~15 hours/week * 8 weeks = 80~120 hours  
+Approximate time to complete: 10 ~ 15 hours/week * 8 weeks = 80 ~ 120 hours  
 
 * Final Project  
 [Download Dataset](https://s3.amazonaws.com/content.udacity-data.com/courses/nd188/flower_data.zip)  
