@@ -3,13 +3,15 @@
 Go to Course https://classroom.udacity.com/nanodegrees/nd188/  
 Course content https://github.com/udacity/deep-learning-v2-pytorch  
 
+Duration: 2018-11-09 ~ 2019-01-09  
+Approximate time to complete: 10~15 hours/week * 8 weeks = 80~120 hours  
+
 * Final Project  
 [Download Dataset](https://s3.amazonaws.com/content.udacity-data.com/courses/nd188/flower_data.zip)  
 [Version 1 (Accuracy 97.07%)](https://github.com/Nov05/Google-Colaboratory/blob/master/2018_12_08_DenseNet169.ipynb)  
 [Version 2 (Accuracy 99.95%)](https://github.com/Nov05/Google-Colaboratory/blob/master/densenet169v2.ipynb)  
 [Training Logs](https://github.com/Nov05/Google-Colaboratory/blob/master/densenet169v2.txt)  
 (The key is not using any data augumentation for this task.)
-
 
 ## Course Outline
 In this course, you'll learn the basics of deep neural networks and how to build various models using PyTorch. You'll get hands-on experience building state-of-the-art deep learning models.
