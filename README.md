@@ -3,7 +3,7 @@
 <img align="left" width="300" height="300" src="https://github.com/Nov05/Udacity-PyTorch_Challenge/blob/master/pictures/p60603977.jpg">  
 
 **Go to Course** https://classroom.udacity.com/nanodegrees/nd188/  
-**Course co** https://github.com/udacity/deep-learning-v2-pytorch  
+**Course code** https://github.com/udacity/deep-learning-v2-pytorch  
 
 **Duration:** 2018-11-09 ~ 2019-01-09  
 **Approximate time to complete:**  
