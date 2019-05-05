@@ -144,3 +144,17 @@ https://youtu.be/0eLXNFv6aT8
 https://youtu.be/Nn8140ECzPU  
 2.3. From Research to Production  
 https://youtu.be/Nn8140ECzPU  
+2.4. Hybrid Frontend
+https://youtu.be/J4z-P8yUZu4  
+2.5. Cutting-edge Applications in PyTorch  
+https://youtu.be/s8p6vqOubqw  
+2.6. User Needs and Adding Features  
+https://youtu.be/7HH65_c7Acw  
+2.7. PyTorch and the Facebook Product  
+https://youtu.be/TjVveb0iVrA  
+2.8. The Future of PyTorch  
+https://youtu.be/vfCg3FoOjE4  
+2.9. Learning More in AI  
+https://youtu.be/NMItGw0GFGM  
+
+
