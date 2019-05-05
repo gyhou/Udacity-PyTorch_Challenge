@@ -1,5 +1,7 @@
 # PyTorch Scholarship Challenge by Udacity
 
+![logo](https://github.com/Nov05/Udacity-PyTorch_Challenge/blob/master/pictures/p60603977.jpg)
+
 Go to Course https://classroom.udacity.com/nanodegrees/nd188/  
 Course content https://github.com/udacity/deep-learning-v2-pytorch  
 
