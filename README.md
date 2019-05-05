@@ -33,3 +33,5 @@ In this course, you'll learn the basics of deep neural networks and how to build
 * Build and train a recurrent network that can classify the sentiment of movie reviews
 ### 8. Deploying PyTorch Models
 * Learn how to use PyTorch's Hybrid Frontend to convert models from Python to C++ for use in production
+### 9. Final Challenge Project
+* Build an image classifier from scratch that will identify different species of flowers
