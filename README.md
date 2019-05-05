@@ -144,7 +144,7 @@ https://youtu.be/0eLXNFv6aT8
 https://youtu.be/Nn8140ECzPU  
 2.3. From Research to Production  
 https://youtu.be/Nn8140ECzPU  
-2.4. Hybrid Frontend
+2.4. Hybrid Frontend  
 https://youtu.be/J4z-P8yUZu4  
 2.5. Cutting-edge Applications in PyTorch  
 https://youtu.be/s8p6vqOubqw  
