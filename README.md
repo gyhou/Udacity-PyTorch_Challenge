@@ -88,8 +88,8 @@ https://youtu.be/rhVIF-nigrY
 1.24. Logistic Regression Algorithm  
 https://youtu.be/snxmBgi_GeU  
 1.25. Pre-Notebook: Gradient Descent  
-Clone the repo from Github and open the notebook GradientDescent.ipynb in the intro-neural-networks > gradient-descent folder.  
 1.26. Notebook: Gradient Descent  
+Clone the repo from Github and open the notebook GradientDescent.ipynb in the intro-neural-networks > gradient-descent folder.  
 1.27. Perceptron vs. Gradient Descent  
 https://youtu.be/uL5LuRPivTA  
 1.28. Continuous Perceptrons  
@@ -105,8 +105,8 @@ https://youtu.be/hVCuvMGOfyY
 1.33. Backpropagation  
 https://youtu.be/1SmY3TZTyUk  
 1.34. Pre-Notebook: Analyzing Student Data  
-Clone the repo from Github and open the notebook StudentAdmissions.ipynb in the intro-neural-networks > student_admissions folder.  
 1.35. Notebook: Analyzing Student Data  
+Clone the repo from Github and open the notebook StudentAdmissions.ipynb in the intro-neural-networks > student_admissions folder.  
 1.36. Training Optimization  
 https://youtu.be/UiGKhx9pUYc  
 1.37. Testing  
@@ -137,6 +137,7 @@ https://youtu.be/TwJ8aSZoh2U
 https://youtu.be/r-rYz_PEWC8  
 1.50. Error Functions around the World  
 https://youtu.be/34AAcTECu2A  
+
 2.1. Origins of PyTorch  
 https://youtu.be/0eLXNFv6aT8  
 2.2. Debugging and Desiging PyTorch  
