@@ -8,7 +8,7 @@ Course content https://github.com/udacity/deep-learning-v2-pytorch
 Duration: 2018-11-09 ~ 2019-01-09  
 Approximate time to complete: 10 ~ 15 hours/week * 8 weeks = 80 ~ 120 hours  
 
-* Final Project  
+*Final Project*  
 [Download Dataset](https://s3.amazonaws.com/content.udacity-data.com/courses/nd188/flower_data.zip)  
 [Version 1 (Accuracy 97.07%)](https://github.com/Nov05/Google-Colaboratory/blob/master/2018_12_08_DenseNet169.ipynb)  
 [Version 2 (Accuracy 99.95%)](https://github.com/Nov05/Google-Colaboratory/blob/master/densenet169v2.ipynb)  
