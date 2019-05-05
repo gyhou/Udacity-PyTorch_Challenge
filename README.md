@@ -157,4 +157,49 @@ https://youtu.be/vfCg3FoOjE4
 2.9. Learning More in AI  
 https://youtu.be/NMItGw0GFGM  
 
+3.1. Welcome  
+Navigate to the intro-to-pytorch directory in the repo  
+3.2. Single layer neural networks  
+https://youtu.be/6Z7WntXays8  
+3.3. Single layer neural networks solution  
+https://youtu.be/mNJ8CujTtpo  
+3.4. Networks Using Matrix Multiplication  
+https://youtu.be/QLaGMz8Ca3E
+3.5. Multilayer Networks Solution  
+https://youtu.be/iMIo9p5iSbE  
+3.6. Neural Networks in PyTorch  
+https://youtu.be/CSQOdOb2mlg  
+3.7. Neural Networks Solution  
+https://youtu.be/zym36ihtOMY  
+3.8. Implementing Softmax Solution  
+https://youtu.be/8KRX7HvqfP0  
+3.9. Network Architectures in PyTorch  
+https://youtu.be/9ILiZwbi9dA  
+3.10. Network Architectures Solution  
+https://youtu.be/zBWlOeX2sQM  
+3.11. Training a Network Solution  
+https://youtu.be/ExyFG2MjsKs  
+3.12. Classifying Fashion-MNIST  
+https://youtu.be/AEJV_RKZ7VU  
+3.13. Fashion-MNIST Solution  
+https://youtu.be/R6Y4hPLVQWM  
+3.14. Inference and Validation  
+https://youtu.be/XACXlkIdS7Y  
+3.15. Validation Solution  
+https://youtu.be/AjrXltxqsK4  
+3.16. Dropout Solution  
+https://youtu.be/3Py2SbtZLbc  
+3.17. Saving and Loading Models  
+https://youtu.be/psmrPu-mseA  
+3.18. Loading Image Data  
+https://youtu.be/hFu7GTfRWks  
+3.19. Loading Image Data Solution  
+https://youtu.be/d_NhvI1yEf0  
+3.20. Transfer Learning  
+https://youtu.be/S9F7MtJ5jls  
+3.21. Transfer Learning Solution  
+https://youtu.be/4n6T93hKRD4  
+3.22. Tips, Tricks, and Other Notes  
+PyTorch can only perform operations on tensors that are on the same device, so either both CPU or both GPU.  
+
 
