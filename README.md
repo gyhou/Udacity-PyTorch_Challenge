@@ -417,3 +417,33 @@ Download Dataset https://s3.amazonaws.com/content.udacity-data.com/courses/nd188
 ## Fun Results  
 [4.20 Style Transfer - Chinese Monkey King × Der Blaue Reiter](https://github.com/Nov05/Udacity-PyTorch_Challenge/blob/master/Playground/2018-11-20_Style_Transfer_Monkey%20King.ipynb)  
 <img align="left" width="400" src="https://github.com/Nov05/Udacity-PyTorch_Challenge/blob/master/pictures/Chinese%20Monkey%20King.jpg">
+
+[7.16 Character-Level LSTM Generating A Chapter of "Anna Karenina"](https://github.com/Nov05/Udacity-PyTorch_Challenge/blob/master/Assignment/7.16_Character_Level_RNN_Exercise.ipynb)  
+```
+And Levin said that he would not be as the full subject
+was bought that he would have to see himself about the servant or to be so
+grouse.
+
+"You've been bagreed about,
+I shall sat down, to despive me about me, that's all so time in your confidence in a condition to the
+company, all of the clear staircess.
+Thinking
+of that, the sick man when she could
+how interest them in the princess, but I would come about her, and he had not been to
+speak, and I can't be
+then to be a minute. You will be in a step of the marshal, and so it
+simply may anyone."
+
+"Oh, they, you're going to settle on your fashionable
+military face," said Stepan Arkadyevitch with
+an anchot attitude to her.
+
+"You work to me, there all better than ever that this wealth was a correct tone that I don't know what you want to make an affairs, and
+there was the measures of the position and anywhangs."
+
+"Well, you should go away together, that it's not in the woman of the
+subject is not all the meaning of
+you, and so that I shall come to see the firm persua in a
+silence transpovelly directions. It's not till your heart, and that is not to do
+in him all that is something of it. How are you a figure?"
+```  
