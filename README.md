@@ -413,3 +413,7 @@ https://www.udacity.com/course/deep-learning-nanodegree--nd101
 9.1. Final Project  
 As the final part of your scholarship challenge, you'll be completing a project to test what you've learned. Here, you'll build an image classifier from scratch that will identify different species of flowers.  
 Download Dataset https://s3.amazonaws.com/content.udacity-data.com/courses/nd188/flower_data.zip  
+
+**Fun Results**
+[4.20 Style Transfer](https://github.com/Nov05/Udacity-PyTorch_Challenge/blob/master/Playground/2018-11-20_Style_Transfer_Monkey%20King.ipynb)  
+<img align="left" src="https://github.com/Nov05/Udacity-PyTorch_Challenge/blob/master/pictures/Chinese%20Monkey%20King.jpg">
