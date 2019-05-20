@@ -418,6 +418,8 @@ Download Dataset https://s3.amazonaws.com/content.udacity-data.com/courses/nd188
 [4.20 Style Transfer - Chinese Monkey King × Der Blaue Reiter](https://github.com/Nov05/Udacity-PyTorch_Challenge/blob/master/Playground/2018-11-20_Style_Transfer_Monkey%20King.ipynb)  
 <img align="left" width="400" src="https://github.com/Nov05/Udacity-PyTorch_Challenge/blob/master/pictures/Chinese%20Monkey%20King.jpg">
 
+<br>
+
 [7.16 Character-Level LSTM Generating A Chapter of "Anna Karenina"](https://github.com/Nov05/Udacity-PyTorch_Challenge/blob/master/Assignment/7.16_Character_Level_RNN_Exercise.ipynb)  
 ```
 And Levin said that he would not be as the full subject
