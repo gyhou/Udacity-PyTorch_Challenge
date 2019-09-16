@@ -3,7 +3,7 @@
 <img align="left" width="300" height="300" src="https://github.com/Nov05/Udacity-PyTorch_Challenge/blob/master/pictures/p60603977.jpg">  
 
 **Go to Course** https://classroom.udacity.com/nanodegrees/nd188/  
-**Course code** https://github.com/udacity/deep-learning-v2-pytorch  
+**Course Notebooks** https://github.com/udacity/deep-learning-v2-pytorch  
 
 **Duration:** 2018-11-09 ~ 2019-01-09  
 **Approximate time to complete:**  
@@ -17,7 +17,8 @@
 (The key is not using any data augumentation for this task.)
 
 ## Course Outline
-In this course, you'll learn the basics of deep neural networks and how to build various models using PyTorch. You'll get hands-on experience building state-of-the-art deep learning models.
+In this course, you'll learn the basics of deep neural networks and how to build various models using PyTorch. You'll get hands-on experience building state-of-the-art deep learning models.    
+https://www.udacity.com/course/deep-learning-nanodegree--nd101    
 
 ### 1. Introduction to Neural Networks
 * Learn the concepts behind deep learning and how we train deep neural networks with backpropagation.
